@@ -22,7 +22,7 @@ Introducing "DeployHub" 🚀 - Your ultimate solution for seamless code deployme
 <br />
 
 ### Demo Screenshots
-![DEPLOYHUB](https://github.com/shubham111389/DeployHub/blob/main/src/images/Screenshot%202023-08-13%20124031.png?raw=true "Optional Title")
+![DEPLOYHUB](https://github.com/shubham111389/Frontend_DeployHUb/blob/master/public/Screenshot%202024-05-21%20205332.png?raw=true "Optional Title")
 
 ### Project Overview
 
